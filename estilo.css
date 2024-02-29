@@ -5,10 +5,10 @@
 body{
    
     background-color: rgb(0, 183, 255);
-    color:black ;
+    color:#fff500 ;
 }
 .cabeça{
     display:flex;
-background-color: #fff500;
+background-color: black;
 
 }
