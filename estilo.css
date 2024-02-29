@@ -14,7 +14,8 @@ align-items: center;
 font-size: 25px;
 justify-content:space-between;
 padding: 24px 0 ;
-
-
+}
+.cabeça-imagem{
+    width:30%;
 
 }
