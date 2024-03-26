@@ -39,8 +39,8 @@ display:flex;
     color: #fff500;
 }
 .secao2-todos-odiados{
-display: flex;
-
+display: grid;
+grid-template-columns: 25% 25% 25% 25%;
 }
 .secao2-todos-odiados img{
     height: 270px;
