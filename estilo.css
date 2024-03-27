@@ -46,3 +46,7 @@ grid-template-columns: 25% 25% 25% 25%;
     height: 270px;
     width: 159px ;
 }
+.secao2-titulo{
+    font-size: 30px
+    padding: 25px 0;
+}
